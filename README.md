@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BhagwaSher
+- 👋 Hi, I’m @Tororo
 - 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision, NLP, and intersection of AI with other domains
 - 🌱 I'm passionate about applications of AI in domains like education, medicine & diagnostics, fitness, disability care, etc
 
